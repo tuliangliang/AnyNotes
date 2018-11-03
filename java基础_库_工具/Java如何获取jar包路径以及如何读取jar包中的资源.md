@@ -1,0 +1,1 @@
+[Java如何获取当前的jar包路径以及如何读取jar包中的资源](http://www.cnblogs.com/zeciiii/p/4178824.html)
